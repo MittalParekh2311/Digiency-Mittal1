@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "ourblogimg": "contentimg1.png",
+        "ourblogheading": "35 Stellar Graphic Design Blogs to Keep You Educated and Inspired",
+        "ourtimeicon": "Mask.png",
+        "ourusericon":"user.png",
+        "ourcomment" :"comment.png",
+        "ourdate": "January 25, 2021",
+        "ourtitle":"Cristofer Westervelt",
+        "comment":"10 Comment",
+        "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultrices facilisi sed tincidunt mauris duis pulvinar convallis eu. Lobortis scelerisque aliquam massa arcu, eget. Sociis odio quis eget lacus. Dolor at enim viverra laoreet molestie amet cursus et. Sed lacus, viverra lacinia scelerisque cras aliquam blandit.",
+        "oublogbtn":"Read More"
+      },
+      {
+        "id": 2,
+        "ourblogimg": "contentimg2.png",
+        "ourblogheading": "How to set up Square Online store: a step-by-step guide",
+        "ourtimeicon": "Mask.png",
+        "ourusericon":"user.png",
+        "ourcomment" :"comment.png",
+        "ourdate": "January 25, 2021",
+        "ourtitle":"Cristofer Westervelt",
+        "comment":"10 Comment",
+        "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultrices facilisi sed tincidunt mauris duis pulvinar convallis eu. Lobortis scelerisque aliquam massa arcu, eget. Sociis odio quis eget lacus. Dolor at enim viverra laoreet molestie amet cursus et. Sed lacus, viverra lacinia scelerisque cras aliquam blandit.",
+        "oublogbtn":"Read More"
+      },
+      {
+        "id": 3,
+        "ourblogimg": "contentimg3.png",
+        "ourblogheading": "Memphis Design: the defining look of the 1980s",
+        "ourtimeicon": "Mask.png",
+        "ourusericon":"user.png",
+        "ourcomment" :"comment.png",
+        "ourdate": "January 25, 2021",
+        "ourtitle":"Cristofer Westervelt",
+        "comment":"10 Comment",
+        "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultrices facilisi sed tincidunt mauris duis pulvinar convallis eu. Lobortis scelerisque aliquam massa arcu, eget. Sociis odio quis eget lacus. Dolor at enim viverra laoreet molestie amet cursus et. Sed lacus, viverra lacinia scelerisque cras aliquam blandit.",
+        "oublogbtn":"Read More"
+      },
+      {
+        "id": 4,
+        "ourblogimg": "contentimg4.png",
+        "ourblogheading": "These 3 tips helped RollWorks find the perfect designer on 99designs",
+        "ourtimeicon": "Mask.png",
+        "ourusericon":"user.png",
+        "ourcomment" :"comment.png",
+        "ourdate": "January 25, 2021",
+        "ourtitle":"Cristofer Westervelt",
+        "comment":"10 Comment",
+        "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultrices facilisi sed tincidunt mauris duis pulvinar convallis eu. Lobortis scelerisque aliquam massa arcu, eget. Sociis odio quis eget lacus. Dolor at enim viverra laoreet molestie amet cursus et. Sed lacus, viverra lacinia scelerisque cras aliquam blandit.",
+        "oublogbtn":"Read More"
+      },
+      {
+        "id": 5,
+        "ourblogimg": "contentimg5.png",
+        "ourblogheading": "What is Design Thinking and how does it create innovation?",
+        "ourtimeicon": "Mask.png",
+        "ourusericon":"user.png",
+        "ourcomment" :"comment.png",
+        "ourdate": "January 25, 2021",
+        "ourtitle":"Cristofer Westervelt",
+        "comment":"10 Comment",
+        "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultrices facilisi sed tincidunt mauris duis pulvinar convallis eu. Lobortis scelerisque aliquam massa arcu, eget. Sociis odio quis eget lacus. Dolor at enim viverra laoreet molestie amet cursus et. Sed lacus, viverra lacinia scelerisque cras aliquam blandit.",
+        "oublogbtn":"Read More"
+      }
+]

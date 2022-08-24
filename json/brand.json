@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "brandimage": "brandicon1.png"
+    },
+    {
+        "id": 2,
+        "brandimage": "brandicon2.png"
+      },
+      {
+        "id": 3,
+        "brandimage": "brandicon3.png"
+      },
+      {
+        "id": 4,
+        "brandimage": "brandicon4.png"
+      }
+  ]
+  

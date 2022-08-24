@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "ourblogimg": "ourblog1.png",
+      "ourblogheading": "35 Stellar Graphic Design Blogs to Keep You Educated and Inspired",
+      "ourdate": "January 25, 2021",
+      "ourtitle":"Cristofer Westervelt",
+      "comment":"10 Comment",
+      "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget nunc, sed sed sed. Sit integer at dui at non ipsum tellus ac. Est.",
+      "oublogbtn":"Read More"
+    },
+    {
+      "id": 2,
+      "ourblogimg": "ourblog2.png",
+      "ourblogheading": "Ridiculously powerful 2021 iPad Pro may drop this month",
+      "ourdate": "January 25, 2021",
+      "ourtitle":"Cristofer Westervelt",
+      "comment":"10 Comment",
+      "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget nunc, sed sed sed. Sit integer at dui at non ipsum tellus ac. Est.",
+      "oublogbtn":"Read More"
+      },
+      {
+        "id": 3,
+        "ourblogimg": "ourblog3.png",
+        "ourblogheading": "Memphis Design: the defining look of the 1980s",
+        "ourdate": "January 25, 2021",
+        "ourtitle":"Cristofer Westervelt",
+        "comment":"10 Comment",
+        "ourdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget nunc, sed sed sed. Sit integer at dui at non ipsum tellus ac. Est.",
+        "oublogbtn":"Read More"
+      }
+  ]
+  

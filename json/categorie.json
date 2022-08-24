@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "categorietitle": "Business",
+      "categorienumber": "05"
+    },
+    {
+        "id": 2,
+        "categorietitle": "Introductions",
+        "categorienumber": "15"
+      },
+      {
+        "id": 3,
+        "categorietitle": "Design Blog",
+        "categorienumber": "65"
+      },
+      {
+        "id": 4,
+        "categorietitle": "UI/UX Design",
+        "categorienumber": "08"
+      },
+      {
+        "id": 5,
+      "categorietitle": "App Development",
+      "categorienumber": "16"
+      }
+  ]
+  

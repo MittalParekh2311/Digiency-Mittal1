@@ -1,0 +1,137 @@
+/* header section css start  */
+.header_section{
+    background: #FFF7F4;
+    padding: 20px 0;
+    display: inline-block;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+.header_section .navbar {
+    display: flex;
+}
+.header_btn {
+    border: 1px solid black;
+    background-color: transparent;
+    padding: 0px 20px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 7px;
+}
+.navbarcollapse{
+    justify-content: end;
+}
+.navlink {
+    font-family: Poppins !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px 19px !important;
+}
+.active{
+    color: #FF5300 !important;
+}
+/* header section css end  */
+/* Footer section css start  */
+.footer_section{
+    background-color: #000000;
+    padding: 50px 0;
+    display: inline-block;
+    width: 100%;
+}
+.footer_title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 37px;
+    color: #FF5300;
+    margin-bottom: 15px !important;
+}
+.footer_twotext {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    display: inline-block;
+}
+.footer_twotext:hover{
+    color: white;
+}
+.footer_social_icons {
+    display: flex;   
+}
+.footer_social_icons img{
+    background-color: white;
+    margin-right: 15px;
+    border-radius: 27px;
+    padding: 10px 10px;
+}
+.footer_bottom {
+    background-color: #000000;
+    padding: 10px 0px;
+}
+.footer_bottom p{
+   
+font-family: Work Sans;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.footer_privacy{
+    display: flex;
+}
+.footer_privacy:before {
+    content: '';
+    background: #FF5300;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin: 5px 10px;
+}
+.arrow {
+    background: #FF5300;    
+    border-radius: 26px;
+    float: right;
+    margin-top: -11px !important;
+    cursor: pointer;
+}
+.footer_line {
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+}
+/* Footer section css END  */
+
+/* Responsive start  */
+@media only screen and (max-width: 1199px) {
+    .navlink {padding: 10px 10px !important; font-size: 17px;   margin-right: 0px;}
+}
+
+@media only screen and (max-width: 992px) {
+    .footer_section{padding: 30px 0;}
+    .footer_bottom p{font-size: 15px;}
+}
+@media only screen and (max-width: 768px) {
+    .arrow{display: none;}
+
+}
+@media only screen and (max-width: 767px) {
+    .header_section{padding: 10px 0;}
+    .footer_twotext{font-size: 16px;line-height: 27px;}
+    .footer_title{margin-bottom: 5px !important;}
+}
+@media only screen and (max-width: 567px) {
+  
+}
+/* Responsive end  */
+
+

@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "blogimg": "blogimg1.png",
+      "blogheading": "35 Stellar Graphic Design Blogs to Keep You Educated and Inspired",
+      "blogtitle": "Graphic Design",
+       "blogicon": "blogicon1.png",
+       "blogsubheading": "Cristofer Westervelt",
+       "blogdate":"January 25, 2021 5 min Read"
+    },
+    {
+        "id": 2,
+        "blogimg": "blogimg2.png",
+        "blogheading": "Ridiculously powerful 2021 iPad Pro may drop this month",
+        "blogtitle": "Managing Director",
+         "blogicon": "blogicon2.png",
+         "blogsubheading": "Haylie Mango",
+         "blogdate":"January 25, 2021 5 min Read"
+      },
+      {
+        "id": 3,
+        "blogimg": "blogimg1.png",
+        "blogheading": "35 Stellar Graphic Design Blogs to Keep You Educated and Inspired",
+        "blogtitle": "Graphic Design",
+         "blogicon": "blogicon1.png",
+         "blogsubheading": "Cristofer Westervelt",
+         "blogdate":"January 25, 2021 5 min Read"
+      }
+  ]
+  

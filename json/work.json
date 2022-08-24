@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "workimg": "workimg1.png",
+      "workType": "Graphic Design",
+      "worksearch":"search.png",
+      "worktitle":"Latest work",
+      "workdesign": "UI/UX Design"
+    
+    },
+    {
+        "id": 2,
+      "workimg": "workimg2.png",
+      "workType": "Web Development",
+      "worksearch":"search.png",
+      "worktitle":"Latest work",
+      "workdesign": "UI/UX Design"
+      },
+      {
+        "id": 3,
+        "workimg": "workimg3.png",
+        "workType": "Graphic Design",
+        "worksearch":"search.png",
+        "worktitle":"Latest work",
+        "workdesign": "UI/UX Design"
+      },
+      {
+        "id": 4,
+        "workimg": "workimg4.png",
+        "workType": "Web Development",
+        "worksearch":"search.png",
+        "worktitle":"Latest work",
+        "workdesign": "UI/UX Design"
+      },
+      {
+        "id": 5,
+        "workimg": "workimg5.png",
+        "workType": "Graphic Design",
+        "worksearch":"search.png",
+        "worktitle":"Latest work",
+        "workdesign": "UI/UX Design"
+      },
+      {
+        "id": 6,
+        "workimg": "workimg6.png",
+        "workType": "UI/UX Design",
+        "worksearch":"search.png",
+        "worktitle":"Latest work",
+        "workdesign": "UI/UX Design"
+      }                 
+  ]
+
+  

@@ -1,0 +1,54 @@
+
+@keyframes bounceIn {
+    0% {
+      transform: scale(0.1);
+      opacity: 0;
+    }
+    60% {
+      transform: scale(1.2);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+ 
+.banner_heading {
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 48.83px !important;
+    margin-bottom: 15px !important;
+    line-height: 73px !important;
+    /* animation-duration: 2s;
+    animation-name: bounceIn; */
+}
+.banner_parg {
+    font-family: Poppins !important;
+    color: #7B7B7B;
+}
+.banner_part {
+    margin-top: 16% !important;
+}
+.banner_girl {
+    margin-top: 10%;
+}
+
+/* Responsive start  */
+
+@media only screen and (max-width: 1199px) {
+    .banner_heading{font-size: 34.83px !important;line-height: 50px !important;}
+}
+@media only screen and (max-width: 992px) {
+    .banner_heading{font-size: 27px !important;line-height: 44px !important;}
+}
+@media only screen and (max-width: 768px) {
+   
+}
+@media only screen and (max-width: 767px) {
+    .banner_part{text-align: center; margin-top: 8% !important;}
+}
+@media only screen and (max-width: 567px) {
+  
+}
+/* Responsive end  */

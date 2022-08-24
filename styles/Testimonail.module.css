@@ -1,0 +1,104 @@
+
+
+.testimonial_section {
+    padding: 100px 0;
+    display: inline-block;
+    width: 100%;
+    background: #FFF7F4;
+}
+.our_test{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF5300;
+}
+.our_test:before , .our_test:after{
+    content: '';
+    border-bottom: 1px solid #FF5300;
+    width: 40px;
+    display: inline-block;
+    margin: 4px 10px;
+}
+.testimonail_heading{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39.0625px;
+    line-height: 59px;
+    color: #373737;
+    display: inline-block;
+}
+.ourclient_cont {
+    display: flex;
+    justify-content:space-between;
+}
+.clientimg {
+    display: flex;
+}
+.ourclient_heading {
+    padding: 0 13px;
+}
+.test_cont {
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    padding: 30px;
+}
+.myh3 .test_cont{
+
+    margin: 10px;
+}
+.test_cont_parg {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7B7B7B;
+    margin: 15px 0px !important;
+}
+.heading_levin {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 !important;
+    color: #FF5300;
+}
+.ceo_title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12.8px;
+    line-height: 19px;
+    color: #7B7B7B;
+}
+.ourimg {
+    width: 60px;
+    height: 60px;
+}
+.quoteimg{
+    width: 60px;
+    height: 60px;
+}
+/* Responsive start  */
+
+@media only screen and (max-width: 1199px) {
+    .heading_levin{ font-size: 17px;}
+    .ourclient_heading {padding: 0 0px;}
+}
+@media only screen and (max-width: 992px) {
+   
+}
+@media only screen and (max-width: 768px) {
+   
+}
+@media only screen and (max-width: 767px) {
+   
+}
+@media only screen and (max-width: 567px) {
+}
+/* Responsive end  */

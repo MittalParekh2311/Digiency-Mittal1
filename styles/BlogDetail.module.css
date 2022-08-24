@@ -1,0 +1,66 @@
+
+.blogdetail_parg {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150.6%;
+    color: #7B7B7B;
+    display: inline-block;
+    padding: 0px 25px;
+    text-align: justify;
+}
+.para_t {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #373737;
+}
+.card_paint {
+    margin: 30px 20px;
+}
+.user_info {
+    background: #FFF7F4;
+    padding: 20px;
+    margin: 50px 0;
+    display: flex;
+}
+.user_heading {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 123.6%;
+    margin: 10px 0 !important;
+    color: #373737;
+}
+.user_title {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150.6%;
+    color: #FF5300;
+}
+.user_prag {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150.6%;
+    margin: 10px 0px !important;
+    color: #7B7B7B;
+}
+.blogdetail_img {
+    width: 100%;
+}
+.blogdetail_pancil {
+    display: flex;
+}
+
+@media only screen and (max-width: 767px) {
+    .blogdetail_pancil{display: inline-block;}
+}

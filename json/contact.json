@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "contacticon": "mail.png",
+      "contacttitle":"Drop a line",
+      "contactheading":"Mail Us",
+      "contactemail1": "Support87@gmial.com",
+      "contactemail2":"ijkuiu874@gmial.com"
+    },
+    {
+        "id": 2,
+        "contacticon": "phone.png",
+        "contacttitle":"24/7 Service",
+        "contactheading":"Call Us",
+        "contactemail1": "Support87@gmial.com",
+        "contactemail2":"ijkuiu874@gmial.com"
+      }
+  ]
+  

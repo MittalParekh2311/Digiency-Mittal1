@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "casestudyimg": "caseimg1.png",
+      "caseType": "Web Design",
+      "casetitle": "Web Template",
+      "casearrow":"uparrow.png"
+    },
+    {
+        "id": 2,
+        "casestudyimg": "caseimg2.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "UI/UX Design"
+      },
+      {
+        "id": 3,
+        "casestudyimg": "caseimg3.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "Web Design"
+      },
+      {
+        "id": 4,
+        "casestudyimg": "caseimg4.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "UI/UX Design"
+      },
+      {
+        "id": 5,
+        "casestudyimg": "caseimg5.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "Graphic Design"
+      },
+      {
+        "id": 6,
+        "casestudyimg": "caseimg6.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "Game Design"
+      },
+      {
+        "id": 7,
+        "casestudyimg": "caseimg7.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "App Development"
+      },
+      {
+        "id": 8,
+        "casestudyimg": "caseimg8.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "Web Design"
+      },
+      {
+        "id": 9,
+        "casestudyimg": "caseimg9.png",
+        "casearrow":"uparrow.png",
+        "casetitle": "Web Template",
+        "caseType": "App Development"
+      }
+  ]
+  

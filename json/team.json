@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "teamimg": "teamimg1.png",
+      "teamheading": "Gustavo Herwitz",
+      "teamtitle": "UI/UX Designer",
+      "teamfb": "fb.png",
+      "teaminsta": "insta.png",
+      "teamtwitter": "twitter.png",
+      "teamskype": "skype.png"
+
+    },
+    {
+        "id": 2,
+        "teamimg": "teamimg2.png",
+        "teamheading": "Phillip Curtis",
+        "teamtitle": "Graphic Designer",
+        "teamfb": "fb.png",
+        "teaminsta": "insta.png",
+        "teamtwitter": "twitter.png",
+        "teamskype": "skype.png"
+      },
+      {
+        "id": 3,
+        "teamimg": "teamimg3.png",
+        "teamheading": "Talan Torff",
+        "teamtitle": "Web Developer",
+        "teamfb": "fb.png",
+        "teaminsta": "insta.png",
+        "teamtwitter": "twitter.png",
+        "teamskype": "skype.png"
+      },
+      {
+        "id": 4,
+        "teamimg": "teamimg4.png",
+        "teamheading": "Abram Vaccaro",
+        "teamtitle": "App Developer",
+        "teamfb": "fb.png",
+        "teaminsta": "insta.png",
+        "teamtwitter": "twitter.png",
+        "teamskype": "skype.png"
+      },
+      {
+        "id": 5,
+        "teamimg": "teamimg4.png",
+        "teamheading": "Abram Vaccaro",
+        "teamtitle": "App Developer",
+        "teamfb": "fb.png",
+        "teaminsta": "insta.png",
+        "teamtwitter": "twitter.png",
+        "teamskype": "skype.png"
+      }           
+  ]

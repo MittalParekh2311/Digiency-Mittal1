@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "starimg": "start.png",
+    "description": " Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo. Rhoncus.",
+    "imagetest": "phill.png",
+    "headingname": "Phillip Levin",
+    "testimonailtitle": "CEO / Creative IT",
+    "quoteimg": "quote.png"
+  },
+  {
+    "id": 2,
+    "starimg": "start.png",
+    "description": " Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo. Rhoncus.",
+    "imagetest": "lon.png",
+    "headingname": "Lincoln Lipshutz",
+    "testimonailtitle": "CEO / Creative IT",
+    "quoteimg": "quote.png"
+  },
+  {
+    "id": 3,
+    "starimg": "start.png",
+    "description": " Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo. Rhoncus.",
+    "imagetest": "craig.png",
+    "headingname": "Craig Siphron",
+    "testimonailtitle": "CEO / Creative IT",
+    "quoteimg": "quote.png"
+  },
+  {
+    "id": 4,
+    "starimg": "start.png",
+    "description": " Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo. Rhoncus.",
+    "imagetest": "phill.png",
+    "headingname": "Phillip Levin",
+    "testimonailtitle": "CEO / Creative IT",
+    "quoteimg": "quote.png"
+  }
+  ]
+  

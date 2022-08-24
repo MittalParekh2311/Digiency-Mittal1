@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "clientimg": "profile1.png",
+    "clientheading": "Justin Septimus",
+    "clienttitle": "CEO,word yt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis eget maecenas bibendum. Morbi lacinia eu, etiam volutpat morbi et amet, sagittis adipiscing. "
+  },
+  {
+    "id": 2,
+    "clientimg": "profile2.png",
+    "clientheading": "Ashlynn Gouse",
+    "clienttitle": "Managing Director",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis eget maecenas bibendum. Morbi lacinia eu, etiam volutpat morbi et amet, sagittis adipiscing. "
+  },
+  {
+    "id": 3,
+    "clientimg": "profile1.png",
+    "clientheading": "Ashlynn Gouse",
+    "clienttitle": "Managing Director",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis eget maecenas bibendum. Morbi lacinia eu, etiam volutpat morbi et amet, sagittis adipiscing. "
+  }
+]

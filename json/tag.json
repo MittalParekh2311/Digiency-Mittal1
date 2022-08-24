@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+     "tagtitle":"Business"
+    },
+    {
+        "id": 2,
+        "tagtitle":"Graphic Design"
+      },
+      {
+        "id": 3,
+        "tagtitle":"Technology"
+      },
+      {
+        "id": 4,
+        "tagtitle":"App Development"
+      },
+      {
+        "id": 5,
+        "tagtitle":"Website Design"
+      },
+      {
+        "id": 6,
+        "tagtitle":"Business Idea"
+      }
+  ]
+  

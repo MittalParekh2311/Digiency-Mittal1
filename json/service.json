@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "serviceimg": "ux-interface.png",
+      "number": "01",
+      "serviceheading": "UX Design",
+      "servicetitle": "Mobile App, Website",
+      "serviceprag": "Lorem ipsum dolor sit amet, consec tet ur adipiscing elit. Accumsan sed faucibu s faucibus augue. Cras ut."
+    },
+    {
+        "id": 2,
+       "serviceimg": "gaming.png",
+      "number": "02",
+      "serviceheading": "Game Design",
+      "servicetitle": "Mobile App, Website",
+      "serviceprag": "Lorem ipsum dolor sit amet, consec tet ur adipiscing elit. Accumsan sed faucibu s faucibus augue. Cras ut."
+      },
+      {
+        "id": 3,
+        "serviceimg": "ux-interface.png",
+        "number": "03",
+        "serviceheading": "Graphic Design",
+        "servicetitle": "Mobile App, Website",
+        "serviceprag": "Lorem ipsum dolor sit amet, consec tet ur adipiscing elit. Accumsan sed faucibu s faucibus augue. Cras ut."
+      },
+      {
+        "id": 4,
+        "serviceimg": "web-design.png",
+        "number": "04",
+        "serviceheading": "Web Design",
+        "servicetitle": "Mobile App, Website",
+        "serviceprag": "Lorem ipsum dolor sit amet, consec tet ur adipiscing elit. Accumsan sed faucibu s faucibus augue. Cras ut."
+      },
+      {
+        "id": 5,
+        "serviceimg": "mobile-development.png",
+        "number": "05",
+        "serviceheading": "App Development",
+        "servicetitle": "Mobile App, Website",
+        "serviceprag": "Lorem ipsum dolor sit amet, consec tet ur adipiscing elit. Accumsan sed faucibu s faucibus augue. Cras ut."
+      },
+      {
+        "id": 6,
+        "serviceimg": "digital-marketing.png",
+        "number": "06",
+        "serviceheading": "Digital Marketing",
+        "servicetitle": "Mobile App, Website",
+        "serviceprag": "Lorem ipsum dolor sit amet, consec tet ur adipiscing elit. Accumsan sed faucibu s faucibus augue. Cras ut."
+      }
+  ]
+  

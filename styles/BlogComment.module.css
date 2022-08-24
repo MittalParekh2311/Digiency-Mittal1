@@ -1,0 +1,114 @@
+
+
+.comment_link {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black !important;
+    padding: 15px 0;
+}
+.comment_sortby {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+.comment_rec {
+    display: inline-block;
+    margin-left: 11px !important;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 123.6%;
+    color: #7B7B7B;
+}
+.textareabox {
+    resize: none;
+    width: 100%;
+    box-shadow: none;
+    border: 1px solid gray !important;
+    border-radius: 10px;
+    outline: none;
+}
+.comment_part {
+    padding: 10px 0 60px;
+}
+.sortby a {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 123.6%;
+    color: #7B7B7B !important;
+}
+.users_comment {
+    padding: 30px 0;
+    display: flex;
+}
+/* .com_img {
+    width: 100%;
+} */
+.user_description {
+    margin-left: 20px;
+}
+.user_comment1 {
+    display: flex;
+    margin-left: 12%;
+    padding: 15px 0;
+}
+.user_heading {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 123.6%;
+    color: #FF5300;
+}
+
+.comment_heading {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 123.6%;
+    margin: 10px 0 !important;
+    color: #FF5300;
+}
+.comment_prag {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150.6%;
+    margin: 0 !important;
+    color: #7B7B7B;
+}
+
+/* Responsive Start  */
+
+@media only screen and (max-width: 1199px) {
+    .user_comment1 {margin-left: 17%;}
+}
+@media only screen and (max-width: 992px) {
+
+}
+@media only screen and (max-width: 768px) {
+    .user_comment1 {margin-left: 25%;}
+   
+}
+@media only screen and (max-width: 767px) {
+   
+}
+@media only screen and (max-width: 567px) {
+    
+    .comment_rec, .sortby a {font-size: 17px;}
+}
+/* Responsive end  */
+
+
+
+
+
+
+
+
+

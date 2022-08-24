@@ -1,0 +1,115 @@
+
+
+.casesstudy_section {
+    padding: 100px 0;
+    display: inline-block;
+    width: 100%;
+}
+.our_case {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF5300;
+}
+.our_case:before , .our_case:after{
+    content: '';
+    border-bottom: 1px solid #FF5300;
+    width: 40px;
+    display: inline-block;
+    margin: 4px 10px;
+}
+.case_heading{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39.0625px;
+    line-height: 59px;
+    color: #373737;
+}
+.casestudy_header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    overflow: auto;
+    white-space: nowrap;
+    flex-wrap: nowrap;
+}
+/* .casestudy_header a.nav-link:hover {
+    background-color: orange;
+    color: white !important;
+    border-radius: 10px;
+} */
+.studyimg {
+    width: 100%;
+}
+.gutter {
+    --bs-gutter-x: 0 !important;
+}
+.studylink {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #7B7B7B !important;
+    padding: 5px 27px !important;
+}
+.pragnesh .active{
+    background-color: #ff5300 !important;
+    color: white !important;
+    padding: 5px 27px !important;
+}
+
+/* .active {
+    background-color: #ff5300 !important;
+    color: white !important;
+    padding: 5px 27px !important;
+} */
+.studylink:hover {
+    background-color: #ff5300 !important;
+    color: white !important;
+}
+.overlyarrow {
+    position: absolute;
+    /* z-index: 1; */
+    top: 13%;
+    left: 17%;
+    opacity: 0;
+    text-align: center;
+    background: rgba(255, 83, 0, 0.75);
+    padding: 81px 45px;
+}
+.casestudyhover{
+    position: relative;
+}
+.casestudyhover:hover .overlyarrow {
+    opacity: 1;
+}
+.casestudy_title {
+    display: block;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 11px;
+}
+/* Responsive start  */
+
+@media only screen and (max-width: 1199px) {
+}
+@media only screen and (max-width: 992px) {
+    .studylink{padding: 0 10px !important;}
+
+}
+@media only screen and (max-width: 768px) {
+}
+@media only screen and (max-width: 767px) {
+}
+@media only screen and (max-width: 567px) {
+}
+/* Responsive end  */
